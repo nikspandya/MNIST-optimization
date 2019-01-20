@@ -1,5 +1,4 @@
 # MNIST-optimization
-MNIST data optimization using tensorflow and keras
 
 MNIST parameter optimization Using Keras and Tensorflow
 How to select best parameter for model using MNITS datasets
